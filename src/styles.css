@@ -1,0 +1,15 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(180deg, #fffafc 0%, #efa3bc 100%);
+    margin: 0;
+    padding: 0;
+  }
+  .container-vert-center {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .btn-primary { background: #c47995; border: none; }
+  .btn-success { background: #a84d6e; border: none; }
+  .card { border-radius: 16px; border: none; }
