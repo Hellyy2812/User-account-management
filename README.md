@@ -6,7 +6,7 @@ All data is stored locally using browser localStorage for demonstration purposes
 ## Live Demo
 
 Visit the deployed site here:
-[Netlify Live Link](https://user-account-management-app-by-helly.netlify.app/login)
+https://user-account-management-app-by-helly.netlify.app/
 
 ## Features
 
